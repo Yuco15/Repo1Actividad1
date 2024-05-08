@@ -1,5 +1,4 @@
 package testing;
-
 import pedro.Pedro;
 
 public class TestingMetodos {
