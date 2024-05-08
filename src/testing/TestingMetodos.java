@@ -20,6 +20,5 @@ public class TestingMetodos {
 		Pedro pedro = new Pedro();
 		pedro.llamar_persona();
 		
-		
 	}
 }
