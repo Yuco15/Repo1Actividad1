@@ -1,9 +1,13 @@
 package testing;
 
+import pedro.Pedro;
+
 public class TestingMetodos {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		Pedro pedro = new Pedro();
+		pedro.llamar_persona();
+	
 
 	}
 
