@@ -3,6 +3,7 @@ package testing;
 import ana.Ana;
 import andres.Andres;
 import bryan.Bryan;
+import mariano.Mariano;
 import pedro.Pedro;
 
 public class TestingMetodos {
@@ -19,6 +20,9 @@ public class TestingMetodos {
 		
 		Pedro pedro = new Pedro();
 		pedro.llamar_persona();
+		
+		Mariano mariano = new Mariano();
+		mariano.llamar_persona();
 		
 	}
 }
